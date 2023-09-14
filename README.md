@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)]
+![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
 <h1 align="center">Hi 👋, I'm AsmaJalal</h1>
 <h3 align="center">A passionate react native developer</h3>
 <img align="right" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
