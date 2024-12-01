@@ -1,10 +1,10 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
+<img align="right" src="https://avatars.githubusercontent.com/u/64752597?v=4&size=64">
 
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Asma+JalalSanidhya!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
 <h3 align="center">I'm a passionate and skilled React and React Native developer who is detail-oriented and driven to achieve success. With a track record of completing tasks on time and earning the trust of my clients and team members, I am committed to delivering high-quality projects that provide real value.</h3>
