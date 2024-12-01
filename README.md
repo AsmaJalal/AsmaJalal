@@ -1,5 +1,5 @@
 <!-- profile view count -->
-<img align="right" style="margin-bottom: 20px;" src="https://raw.githubusercontent.com/AsmaJalal/Fast_Food_Point/refs/heads/main/asmilogod.png?token=GHSAT0AAAAAAC3I4WMTN35SEHIPOR6I2LZ2Z2MW3VQ">
+<img align="right" style="margin-bottom: 0px;" src="https://raw.githubusercontent.com/AsmaJalal/Fast_Food_Point/refs/heads/main/asmilogod.png?token=GHSAT0AAAAAAC3I4WMTN35SEHIPOR6I2LZ2Z2MW3VQ">
 
 <!-- introduction -->
 <h1 align="center">
@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Asma+Jalal+Arain!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
-<br />
 <h3 align="center">I am Asma Jalal, a passionate and dedicated MERN-Stack and React Native Developer with over 2.6 years of experience in React Native development and 5+ years in Android development. My journey in the tech industry has been driven by a commitment to creating intuitive and efficient mobile applications and web solutions. With expertise in JavaScript/TypeScript, React.js, Next.js, and a solid foundation in mobile and web development, I have a proven track record of delivering high-quality, user-centric applications.</h3>
 
 
