@@ -1,5 +1,5 @@
 <!-- profile view count -->
-<img align="right" src="https://avatars.githubusercontent.com/u/64752597?v=4&size=64">
+<img align="left" src="https://avatars.githubusercontent.com/u/64752597?v=4&size=64">
 
 <!-- introduction -->
 <h1 align="center">
@@ -7,7 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Asma+Jalal+Arain!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
+
 <h3 align="center">I'm a passionate and skilled React and React Native developer who is detail-oriented and driven to achieve success. With a track record of completing tasks on time and earning the trust of my clients and team members, I am committed to delivering high-quality projects that provide real value.</h3>
+
+
 <img align="right" alt="Coding" width="1000" height="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmajalal&label=Profile%20views&color=0e75b6&style=flat" alt="asmajalal" /> </p>
