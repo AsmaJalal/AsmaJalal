@@ -1,5 +1,12 @@
-![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
-<h1 align="center">Hi 👋, I'm Asma</h1>
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
+
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
 <h3 align="center">I'm a passionate and skilled React and React Native developer who is detail-oriented and driven to achieve success. With a track record of completing tasks on time and earning the trust of my clients and team members, I am committed to delivering high-quality projects that provide real value.</h3>
 <img align="right" alt="Coding" width="1000" height="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
