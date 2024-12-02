@@ -7,22 +7,22 @@
 </h1>
 <img align="right" style="margin-bottom: 0px;" src="https://raw.githubusercontent.com/AsmaJalal/Fast_Food_Point/refs/heads/main/asmilogonn.png?token=GHSAT0AAAAAAC3I4WMTWH62LVVR5UFQB2WUZ2MXLNA">
 
-<h3 align="center" style="margin-top: 0px;">I am Asma Jalal, a passionate and dedicated MERN-Stack and React Native Developer with over 2.6 years of experience in React Native development and 5+ years in Android development. My journey in the tech industry has been driven by a commitment to creating intuitive and efficient mobile applications and web solutions. With expertise in JavaScript/TypeScript, React.js, Next.js, and a solid foundation in mobile and web development, I have a proven track record of delivering high-quality, user-centric applications.</h3>
+<h3 align="center" style="margin-top: 0px;">I am Asma Jalal, a passionate and dedicated MERN-Stack and React Native Developer with over 2.6 years of experience in React Native development and 5+ years in Android development. My journey in the tech industry has been driven by 💻 Lerner  👨‍💻 &  gamer commitment to creating intuitive and efficient mobile applications and web solutions. With expertise in JavaScript/TypeScript, React.js, Next.js, and a solid foundation 🔥 in mobile and web development, I have a proven track 🔥 record of delivering high-quality, user-centric applications.</h3>
 
 
 <img align="right" alt="Coding" width="1000" height="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmajalal&label=Profile%20views&color=0e75b6&style=flat" alt="asmajalal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmajalal" alt="asmajalal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmajalal" alt="asmajala👨‍💻 &  gamerl" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/asmajalal" target="blank"><img src="https://img.shields.io/twitter/follow/asmajalal?logo=twitter&style=for-the-badge" alt="asmajalal" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Next.js 15**
 
-- 🌱 I’m currently learning **AI MERN Stack**
+- 🌱 I’m currently learning **AI Full Stack**
 
-- 👯 I’m looking to collaborate on **React Native**
+- 👯 I’m looking to collaborate on **React Native & Next.js**
 
 - 💬 Ask me about **react native**
 
