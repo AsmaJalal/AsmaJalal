@@ -10,7 +10,7 @@
 <h3 align="center" style="margin-top: 0px;">I am Asma Jalal, a passionate and dedicated Full-Stack and React Native Developer with over 3 years of experience in React Native development and 5+ years in Android development. My journey in the tech industry has been driven by 💻 Lerner  👨‍💻 &  gamer commitment to creating intuitive and efficient mobile applications and web solutions. With expertise in JavaScript/TypeScript, React.js, Next.js, and a solid foundation 🔥 in mobile and web development, I have a proven track 🔥 record of delivering high-quality, user-centric applications.</h3>
 
 
-<img align="right" alt="Coding" width="1000" height="400" src="https://github.com/AsmaJalal/Fast_Food_Point/blob/main/bann.png">
+<img align="right" alt="Coding" width="1000" height="400" src="https://github.com/AsmaJalal/mycarmedics/blob/main/bann.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmajalal&label=Profile%20views&color=0e75b6&style=flat" alt="asmajalal" /> </p>
 
