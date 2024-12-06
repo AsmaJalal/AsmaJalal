@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Asma+Jalal+Arain!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
-<img align="right" width="140" height="140" src="https://github.com/AsmaJalal/mycarmedics/blob/main/newpic.png" alt="Asma Jalal">
+<img align="right" width="140" height="140" style="border: 3px solid yellow; border-radius: 5px;"  src="https://github.com/AsmaJalal/mycarmedics/blob/main/newpic.png" alt="Asma Jalal">
 
 <h3 align="center" style="margin-top: 0px;">I am Asma Jalal, a passionate and dedicated Full-Stack and React Native Developer with over 3 years of experience in React Native development and 5+ years in Android development. My journey in the tech industry has been driven by 💻 Lerner  👨‍💻 &  gamer commitment to creating intuitive and efficient mobile applications and web solutions. With expertise in JavaScript/TypeScript, React.js, Next.js, and a solid foundation 🔥 in mobile and web development, I have a proven track 🔥 record of delivering high-quality, user-centric applications.</h3>
 
