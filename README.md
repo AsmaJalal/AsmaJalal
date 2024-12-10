@@ -7,8 +7,12 @@
 </h1>
 <img align="right" width="1400" height="400" src="https://github.com/AsmaJalal/asma-portfolio/blob/master/src/portfolio.gif" alt="Asma Jalal">
 
-<h1 >             </>
-<h2 align="center" style="margin-top: 10;">My journey in the tech industry has been driven by 💻 Lerner  👨‍💻 &  gamer commitment to creating intuitive and efficient mobile applications and web solutions. With expertise in JavaScript/TypeScript, React.js, Next.js, and a solid foundation 🔥 in mobile and web development, I have a proven track 🔥 record of delivering high-quality, user-centric applications.</h2>
+<h2 align="center" style="margin-bottom: 0px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=My journey in the tech industry has been driven by 💻+Lerner  👨‍💻 &  gamer commitment to creating intuitive and efficient mobile applications and web solutions.+💻;+With expertise in JavaScript/TypeScript, React.js, Next.js,+solid foundation 🔥 in mobile and web development,+I have a proven track 🔥 record of delivering high-quality, user-centric applications.;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
+
 
 
 <img align="right" alt="Coding" width="1000" height="400" src="https://github.com/AsmaJalal/mycarmedics/blob/main/bann.png">
