@@ -9,9 +9,10 @@
 
 <h2 align="center" style="margin-bottom: 0px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=My journey in the tech industry has been driven by 💻+Lerner  👨‍💻 &  gamer commitment to creating intuitive and efficient mobile applications and web solutions.+💻;+With expertise in JavaScript/TypeScript, React.js, Next.js,+solid foundation 🔥 in mobile and web development,+I have a proven track 🔥 record of delivering high-quality, user-centric applications.;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=My+journey+in+the+tech+industry+has+been+driven+by+%F0%9F%92%BB+Learner+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%26+gamer;+Commitment+to+creating+intuitive+and+efficient+mobile+applications+and+web+solutions.+%F0%9F%92%BB;+With+expertise+in+JavaScript%2FTypeScript%2C+React.js%2C+Next.js;+Solid+foundation+%F0%9F%94%A5+in+mobile+and+web+development;+I+have+a+proven+track+record+%F0%9F%94%A5+of+delivering+high-quality%2C+user-centric+applications.&center=true&font=Righteous&size=35">
   </a>
 </h2>
+
 
 
 
