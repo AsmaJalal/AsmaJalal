@@ -11,7 +11,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=My journey in the tech industry has been driven by 💻+Lerner  👨‍💻 &  gamer commitment to creating intuitive and efficient mobile applications and web solutions.+💻;+With expertise in JavaScript/TypeScript, React.js, Next.js,+solid foundation 🔥 in mobile and web development,+I have a proven track 🔥 record of delivering high-quality, user-centric applications.;&center=true&font=Righteous&size=35">
   </a>
-</h1>
+</h2>
 
 
 
