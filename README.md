@@ -7,17 +7,12 @@
 </h1>
 <img align="right" width="1400" height="400" src="https://github.com/AsmaJalal/asma-portfolio/blob/master/src/portfolio.gif" alt="Asma Jalal">
 
-<h2 align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=My+journey+in+the+tech+industry+has+been+driven+by+%F0%9F%92%BB+Learner+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%26+gamer;+Commitment+to+creating+intuitive+and+efficient+mobile+applications+and+web+solutions.+%F0%9F%92%BB;+With+expertise+in+JavaScript%2FTypeScript%2C+React.js%2C+Next.js;+Solid+foundation+%F0%9F%94%A5+in+mobile+and+web+development;+I+have+a+proven+track+record+%F0%9F%94%A5+of+delivering+high-quality%2C+user-centric+applications.&center=true&font=Righteous&size=35">
-  </a>
-</h2>
 
 
 
 
 
-<img align="right" alt="Coding" width="1000" height="400" src="https://github.com/AsmaJalal/mycarmedics/blob/main/bann.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmajalal&label=Profile%20views&color=0e75b6&style=flat" alt="asmajalal" /> </p>
 
