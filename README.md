@@ -20,9 +20,9 @@
 
 <p align="left"> <a href="https://twitter.com/asmajalal" target="blank"><img src="https://img.shields.io/twitter/follow/asmajalal?logo=twitter&style=for-the-badge" alt="asmajalal" /></a> </p>
 
-- 🔭 I’m currently working on **Next.js 15**
+- 🔭 I’m currently working on **Next.js 15 ai-SaaS Application & React Native**
 
-- 🌱 I’m currently learning **AI Full Stack**
+- 🌱 I’m currently learning **AI Full Stack AI**
 
 - 👯 I’m looking to collaborate on **React Native & Next.js**
 
